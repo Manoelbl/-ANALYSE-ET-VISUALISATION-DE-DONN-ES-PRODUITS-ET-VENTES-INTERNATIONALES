@@ -10,7 +10,7 @@ Analyser les données de ventes des boutiques situées en Amérique du Nord, en 
 
 🛠 Outils & Technologies :
 
-• Python (Pandas, NumPy) • Utilisation des Mesures • DAX • Tableaux de bord interactifs avec Tableau et Power BI
+Power BI(Tableaux de bord interactifs), Python (Pandas, NumPy), DAX (Utilisation des Mesures) 
 
 📊 Résultats :
 
